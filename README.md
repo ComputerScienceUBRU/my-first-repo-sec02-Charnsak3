@@ -1,5 +1,5 @@
 # อาหารที่ชอบ
-Sizzler
+Sizzler, BarBQue plaza, MK suki, Jinda Somtam;
 # Student ID
 57xxxxxx
 # Name
